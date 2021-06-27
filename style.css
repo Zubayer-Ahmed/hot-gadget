@@ -1,0 +1,41 @@
+.container{
+    margin-bottom: 100px;
+}
+.carousel{
+    height: 600px;
+}
+.carousel .carousel-indicators .carousel-button{
+    background-color: orange;
+}
+.orange-cl a {
+    margin-bottom: 20px;
+    color: #FF9C35;
+    text-decoration: none;
+}
+.card-body{
+    text-align: center;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-width img{
+    width: 280px;
+    height: 280px;
+}
+.card-img-top{
+    padding: 30px 30px;
+}
+.orange-border{
+    text-align: center;
+}
+.orange-border p{
+    background-image: linear-gradient( #FF9C35 0%, #FFD019 100%);
+    margin: 0px 510px;
+    font-size: 5px;
+    color: #FFD019;
+}
+.top-margin{
+    margin-top: 50px;
+}

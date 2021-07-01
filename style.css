@@ -4,6 +4,10 @@
 .carousel{
     height: 600px;
 }
+.carousel-bg{
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+}
 .carousel .carousel-indicators .carousel-button{
     background-color: orange;
 }
